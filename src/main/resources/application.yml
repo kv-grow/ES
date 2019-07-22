@@ -1,0 +1,4 @@
+es.domain: http://localhost:9200/
+es.index: test_ind
+es.type: test_type
+es.resultsize: 1000
